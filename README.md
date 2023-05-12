@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=eeee0717&show_icons=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=eeee0717 "![github stats")](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eeee0717/eeee0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
